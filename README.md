@@ -7,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/JoseAntonioAlves">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JoseAntonioAlves&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioAlves&layout=compact&theme=chartreuse-dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAntonioAlves&layout=compact&theme=chartreuse-dark">
     
 </div>
 
